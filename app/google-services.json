@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "998809321774",
+    "firebase_url": "https://bloom-1532027508189.firebaseio.com",
+    "project_id": "bloom-1532027508189",
+    "storage_bucket": "bloom-1532027508189.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998809321774:android:192cde60725b1b8a",
+        "android_client_info": {
+          "package_name": "com.example.sdjki.amigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998809321774-f8lmsh75n9hjc1nhaq1bpo4291irih26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sdjki.amigo",
+            "certificate_hash": "f0b650d64d143675d9337fd23b059b1f8b69a8fe"
+          }
+        },
+        {
+          "client_id": "998809321774-9lt4srbsiqn79mu88d4kdkj9bgum1glc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD2YUG1UTVoWvoSsh96eLMeN-z28USc-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998809321774-9lt4srbsiqn79mu88d4kdkj9bgum1glc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<resources>
+    <string name="title_activity_maps">Map</string>
+    <string name="app_name">Amigo</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="jewellery_stores">Jewellery Stores</string>
+    <string name="food_and_dining">Food and Dining</string>
+    <string name="books_and_stationary">Books and Stationary</string>
+    <string name="fashion_stores">Fashion Stores</string>
+    <string name="beauty_and_health">Beauty and Health</string>
+    <string name="sports_and_fitness">Sports and Fitness</string>
+    <string name="gift_shops">Gift Shops</string>
+    <string name="tech_stores">Tech Stores</string>
+    <string name="home_decor">Home Decor</string>
+    <string name="entertainment">Entertainment</string>
+</resources>
+
