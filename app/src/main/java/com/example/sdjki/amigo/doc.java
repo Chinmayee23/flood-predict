@@ -25,6 +25,7 @@ public class doc implements Parcelable{
         this.temp=temp;
         this.wind=wind;
         this.flood=flood;
+        //initialization
     }
 
     public doc() {
